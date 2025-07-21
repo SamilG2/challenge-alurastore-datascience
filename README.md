@@ -31,5 +31,5 @@ Estos gráficos proporcionan claridad visual sobre las comparativas necesarias p
 2. Súbelo a [Google Colab](https://colab.research.google.com/).
 3. Selecciona **"Ejecutar todo"** para reproducir el análisis completo.
 
-## ¿Te gustó este proyecto?**
+## ¿Te gustó este proyecto?
 Si este proyecto te ha resultado útil, ¡apóyalo dejando una ⭐ en el repositorio!
